@@ -5,22 +5,22 @@
 
 ## Skills
 
-### Programming languages:
+#### Programming languages:
 *C++ (basics)*
 
-### Bug tracking systems:
+#### Bug tracking systems:
 * *Jira*
 * *YouTrack*
 
-### API testing tools:
+#### API testing tools:
 * *Postman*
 * *SoapUI*
 
-### Other tools:
+#### Other tools:
 * *DevTools*
 * *Android SDK*
 
-### English language level:
+#### English language level:
 *Intermediate*
 
 ## Work Experience
